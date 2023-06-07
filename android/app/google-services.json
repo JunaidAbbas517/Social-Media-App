@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328861005491",
+    "project_id": "beeztech-5c3a8",
+    "storage_bucket": "beeztech-5c3a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328861005491:android:4ff9b6d4b5a1762a0562c6",
+        "android_client_info": {
+          "package_name": "com.threebeeztech.social_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328861005491-qb9h1kp5afut6e01bhv8aqbjrak9tbva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBUt1sfeDRhT0Y4AkpODyNzb1-ehuyjII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328861005491-qb9h1kp5afut6e01bhv8aqbjrak9tbva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
